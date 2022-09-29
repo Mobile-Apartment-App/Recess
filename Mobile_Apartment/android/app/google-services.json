@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583840257786",
+    "firebase_url": "https://mobile-appartment-4e7c1-default-rtdb.firebaseio.com",
+    "project_id": "mobile-appartment-4e7c1",
+    "storage_bucket": "mobile-appartment-4e7c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583840257786:android:783cef6471713e24ae9b43",
+        "android_client_info": {
+          "package_name": "com.recess.mobile.mobile_apartment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583840257786-9cv5udg5tknt5n199cjnq4cjtfk5o8kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWhqin0fGQnTPt4rlM7y30WeuxTquRskg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583840257786-9cv5udg5tknt5n199cjnq4cjtfk5o8kg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583840257786-ive0fqstmv9h5hekarms473oleq4fv72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.recess.mobile.mobileApartment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
